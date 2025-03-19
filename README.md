@@ -4,6 +4,6 @@ This repository contains the source code for a Money Tracker app build with the 
 
 # Tech Stack
 
-Frontend : React.js, Tailwind CSS
-Backend : Node.js, Express.js
-Database : MongoDB
+Frontend : React.js, Tailwind CSS <br>
+Backend : Node.js, Express.js <br>
+Database : MongoDB 
